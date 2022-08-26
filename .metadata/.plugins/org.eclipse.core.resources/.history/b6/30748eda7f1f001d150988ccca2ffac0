@@ -1,0 +1,14 @@
+package packagedemo;
+
+import java.util.Properties;
+
+public class democlass {
+
+	public static void main(String[] args) {
+		Properties prop=new Properties();
+		System.out.println(prop.getProperty("url"));
+		
+
+	}
+
+}

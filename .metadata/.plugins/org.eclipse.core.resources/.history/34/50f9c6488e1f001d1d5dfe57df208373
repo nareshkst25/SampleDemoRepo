@@ -1,0 +1,11 @@
+package packagedemo;
+
+public class day1 {
+	
+	
+	public void getusername()
+	{
+		
+	}
+
+}
